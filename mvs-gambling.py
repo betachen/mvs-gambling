@@ -7,17 +7,17 @@ import time
 import datetime
 import logging
 
-ROUND_BLOCK_UNIT = 10
-SETTLEMENT_BLOCK = 3
+ROUND_BLOCK_UNIT = 50
+SETTLEMENT_BLOCK = 11
 
 ################################################################
 class Command:
-    name="chenhao"
-    passwd="ChenHao2009#"
+    name="chenhao666"
+    passwd="chenhao666"
     #bronze
-    address_A="MU93d3PEiVNUhjynXYoTDZK1j6CJRxSLgx"
-    address_B="MRQr3uG6BUup2TDknuwL8U6ERnzQsNDFaF"
-    mychange="MHv1JGzbhepj3FoDGG169J6SDsY86z4CYa"
+    address_A="MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D"
+    address_B="MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2"
+    mychange="MB5KLQ8Mg2bToCC4cM5TJJj9KwLU1xUPdD"
 
     def __init__(self, url):
         self.url = url
