@@ -29,19 +29,15 @@ $ ./mvs-gambling.py
 ### 游戏玩法
 
 先投注：
-
-是-请押注到地址A: [**MU93d3PEiVNUhjynXYoTDZK1j6CJRxSLgx**](http://mymvs.info/address/MU93d3PEiVNUhjynXYoTDZK1j6CJRxSLgx)
-否-请押注到地址B: [**MRQr3uG6BUup2TDknuwL8U6ERnzQsNDFaF**](http://mymvs.info/address/MRQr3uG6BUup2TDknuwL8U6ERnzQsNDFaF)
+是-请押注到地址A: [**MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D**](http://mymvs.info/address/MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D)
+否-请押注到地址B: [**MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2**](http://mymvs.info/address/MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2)
 
 <!-- more -->
 
-### 竞猜下一个10的整数倍高度的区块哈希的最后一位是否是数字?
-
-是-请押注到地址A: [**MU93d3PEiVNUhjynXYoTDZK1j6CJRxSLgx**](http://mymvs.info/address/MU93d3PEiVNUhjynXYoTDZK1j6CJRxSLgx)
-否-请押注到地址B: [**MRQr3uG6BUup2TDknuwL8U6ERnzQsNDFaF**](http://mymvs.info/address/MRQr3uG6BUup2TDknuwL8U6ERnzQsNDFaF)
+### 竞猜下一个100的整数倍高度的区块哈希的最后一位是否是数字?
 
 例如:
-区块高度958210, 958220, 958230, 区块哈希分别是
+区块高度958200, 958300, 958400, 区块哈希分别是
 ```
 82450071f44e94be72779b3cbb8ff6917de5e8c67df572cafcc8e9ea4359f67d
 63fc451a02215318181343770d80e15a04c5d838741b20dc9fc331550a6d066e
@@ -59,7 +55,7 @@ B胜：  (A+B) * 0.98 / B
 在[元界的区块浏览器](http://mymvs.info)上可查询上述地址的余额，即可计算赔率。
 
 ## 开奖与结算
-每次开奖后3个区块开始发起上一轮结算, MVS上的区块时间约30秒，所以一轮大约5~7分钟，奖金结算控制在3分钟以内。
+每次开奖后11个区块开始发起上一轮结算, MVS上的区块时间约30秒，所以一轮大约50分钟，奖金结算控制在6分钟以内。
 系统抽取佣金2%。
 
 如果本轮有任意一方押注资金为0，则无法开奖，所有奖金注入下一轮进行开奖。
