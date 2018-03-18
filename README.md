@@ -7,9 +7,9 @@ A gambling game program to guess MVS blockchan hash.
 
 then send ETP to one of these two address as below:
 
-addressA for YES: [**MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D**](http://mymvs.info/address/MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D)
+addressA for YES: [**MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D**](https://explorer.mvs.org/#!/adr/MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D)
 
-addressB for NO: [**MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2**](http://mymvs.info/address/MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2)
+addressB for NO: [**MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2**](https://explorer.mvs.org/#!/adr/MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2)
 
 You can trial this game right now, but only for testing , DO NOT send too many ETPs.
 
