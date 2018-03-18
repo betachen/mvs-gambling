@@ -7,7 +7,7 @@ import time
 import datetime
 import logging
 
-ROUND_BLOCK_UNIT = 50
+ROUND_BLOCK_UNIT = 100
 SETTLEMENT_BLOCK = 11
 
 ################################################################
