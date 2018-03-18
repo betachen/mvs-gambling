@@ -4,8 +4,11 @@ A gambling game program to guess MVS blockchan hash.
 ### trial on MVS blockchain
 
 **Question: Is the last character of block hash which is the next 100 integer multiple height number => numeric?**
-then send ETP to these two address as below:
+
+then send ETP to one of these two address as below:
+
 addressA for YES: [**MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D**](http://mymvs.info/address/MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D)
+
 addressB for NO: [**MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2**](http://mymvs.info/address/MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2)
 
 
@@ -50,11 +53,13 @@ you can monitor it from mvs-gambling.log file.
 waiting for customers tranfer ETP to these two address.
 Program will do the judgement, then payment automaticly.
 
-### 游戏玩法
+### Game rules
 
-先投注：
-addressA for YES: [**MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D**](http://mymvs.info/address/MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D)
-addressB for NO: [**MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2**](http://mymvs.info/address/MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2)
+stake ETP to：
+
+address A for YES: [**MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D**](http://mymvs.info/address/MLuy4exuzMcoZvtkmFHeBqwBzczmwagC3D)
+
+address B for NO: [**MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2**](http://mymvs.info/address/MBt5aoaJwngvDz4BqMfWpxG62PyN8Y5VJ2)
 
 ### Question: Is the last character of block hash which is the next 100 integer multiple height number => numeric?
 
