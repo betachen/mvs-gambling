@@ -77,14 +77,15 @@ Round peroid about 50 minutes (100 MVS blocks), settlement and payment within 6 
 Porgram got commission in 2% of each round ETP pool.
 If no players, or only one play, the ETP will goes to next round.
 
-### 中奖概率
-区块哈希的组成其实是十六进制，所以押注的概率:
-是 62.5% - 否 37.5%
+### Winning rate
+Since the combination of block hash is hexadecimal, the bet for gambling will be:
+Yes – 62.5%
+No – 37.5%
 
-### 赔率计算公式
-A胜：  (A+B) * 0.98 / A
-B胜：  (A+B) * 0.98 / B
-在[元界的区块浏览器](http://mymvs.info)上可查询上述地址的余额，即可计算赔率。
+### Odds calculation formula
+A Win：  (A+B) * 0.98 / A
+B Win：  (A+B) * 0.98 / B
+To calculate the odds, please go to Metaverse explorer <https://explorer.mvs.org/> and look up the balance of above addresses mentioned.
 
 
 ### monitor log file like this:
